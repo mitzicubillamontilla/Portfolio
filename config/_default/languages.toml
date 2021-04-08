@@ -14,7 +14,7 @@
   title = "Website in english..."
   [en.params]
     description = "Site description in Englsih..."
-  [[enh.menu.main]]
+  [[en.menu.main]]
     name = "About"
     url = "#about"
     weight = 1
