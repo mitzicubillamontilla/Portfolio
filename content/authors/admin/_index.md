@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Mitzi Cubilla
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,16 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universidad de Panamá
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Estadística
+- Programación
+- Docencia
 
 education:
   courses:
