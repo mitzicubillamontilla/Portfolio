@@ -22,4 +22,12 @@
   [[en.menu.main]]
     name = "Posts"
     url = "#posts"
-    weight = 1
+    weight = 2
+  [[en.menu.main]]
+    name = "Publications"
+    url = "#featured"
+    weight = 3
+  [[en.menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 4
