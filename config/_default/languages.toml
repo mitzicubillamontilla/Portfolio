@@ -12,9 +12,9 @@
   languageCode = "en-us"
   contentDir = "content/en"
   title = "Website in english..."
-  [zh.params]
+  [en.params]
     description = "Site description in Englsih..."
-  [[zh.menu.main]]
+  [[enh.menu.main]]
     name = "About"
     url = "#about"
     weight = 1
