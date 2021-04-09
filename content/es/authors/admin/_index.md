@@ -46,7 +46,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/MitziCubilla
 -icon: linkedin-in
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/mitzi-cubilla/
 - icon: google-scholar
   icon_pack: ai
