@@ -34,6 +34,14 @@
   enable = true
 
 [[buttons]]
+  id = "linkedin2"
+  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  title = "LinkedIn2"
+  icon_pack = "fab"
+  icon = "linkedin"
+  enable = true
+
+[[buttons]]
   id = "whatsapp"
   url = "https://web.whatsapp.com/send?text={title}%20{url}"
   title = "WhatsApp"
