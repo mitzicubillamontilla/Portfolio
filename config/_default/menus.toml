@@ -6,22 +6,32 @@
 [[main]]
   name = "Sobre mí"
   url = "#about"
-  weight = 10
+  weight = 1
 
 [[main]]
-  name = "Publicaciones"
+  name = "Certificados"
+  url = "#accomplishments"
+  weight = 2
+
+[[main]]
+  name = "Blog"
   url = "#posts"
-  weight = 20
+  weight = 3
+
+[[main]]
+  name = "Charlas"
+  url = "#talks"
+  weight = 4
 
 [[main]]
   name = "Publicaciones"
   url = "#featured"
-  weight = 40
+  weight = 5
 
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 60
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
