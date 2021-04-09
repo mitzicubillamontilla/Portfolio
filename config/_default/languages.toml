@@ -6,13 +6,13 @@
 [es]
   languageCode = "es-pa"
    contentDir = "content/es"
-   title = "Mitzi Cubilla"
+   title = "Home"
 
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
   contentDir = "content/en"
-  title = "Mitzi Cubilla"
+  title = Home"
   [en.params]
     description = "Site description in Englsih..."
   [[en.menu.main]]
