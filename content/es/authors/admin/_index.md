@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD en Análisis Avanzado de Datos Multivariantes y Big Data
+  - course: PhD en Estadística Multivariante Aplicada
     institution: Universidad de Salamanca
     year: 2019
   - course: Master en Análisis Avanzado de Datos Multivariantes

@@ -18,27 +18,68 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Docente universitaria"
+  company = "Universidad de Panamá"
+  company_url = "https://www.up.ac.pa/"
+  location = "Ciudad de Panamá"
+  date_start = ""
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsabilidades:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Profesora de estadística en licenciatura, maestría y doctorado.
+  * Asesorar tesis.
+  * Colaborar en la organzación de eventos científicos. 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Investigadora del Sistema Nacional de Investigación"
+  company = "SENACYT"
+  company_url = "https://www.senacyt.gob.pa/"
+  location = "Ciudad de Panamá"
+  date_start = ""
+  date_end = ""
+  description = """
+  Responsabilidades:
+  
+  * Divulgar la ciencia.
+  * Realizar publicaciones en revistas científicas.
+  """
+  
+[[experience]]
+  title = "Coordinadora de la maetría de Estadística Aplicada"
+  company = "Universidad de Panamá"
+  company_url = "https://www.up.ac.pa/"
+  location = "Ciudad de Panamá"
+  date_start = ""
+  date_end = ""
+  description = """"""
+  
+[[experience]]
+  title = "Coordinadora de concursos formales de la Vicerrectoría Académica"
+  company = "Universidad de Panamá"
+  company_url = "https://viceacademica.up.ac.pa/"
+  location = "Ciudad de Panamá"
+  date_start = ""
+  date_end = ""
+  description = """"""
+  
+[[experience]]
+  title = "Asesora de Planes y Proyectos del Despacho Superior"
+  company = "Ministrio de Educación"
+  company_url = "https://meduca.gob.pa/"
+  location = "Ciudad de Panamá"
+  date_start = ""
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Directora de la Escuela de Estadística"
+  company = "Universidad de Panamá"
+  company_url = "https://facciencias.up.ac.pa/"
+  location = "Ciudad de Panamá"
+  date_start = ""
+  date_end = ""
+  description = """"""
 
 +++

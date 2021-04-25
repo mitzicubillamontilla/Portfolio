@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Advanced Analysis of Multivariate Data and Big Data
+  - course: PhD in Applied Multivariate Statistics
     institution: University of Salamanca
     year: 2019
   - course: MSc in Advanced Analysis of Multivariate Data

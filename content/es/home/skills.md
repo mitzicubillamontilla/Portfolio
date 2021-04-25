@@ -15,11 +15,6 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Estadística"
@@ -28,5 +23,10 @@ subtitle = ""
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Docencia"
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
 
 +++
