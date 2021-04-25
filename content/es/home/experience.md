@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * Profesora de estadística en licenciatura, maestría y doctorado.
   * Asesorar tesis.
-  * Colaborar en la organzación de eventos científicos. 
+  * Colaborar en la organización de eventos científicos. 
   """
 
 [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Coordinadora de la maetría de Estadística Aplicada"
+  title = "Coordinadora de la maestría de Estadística Aplicada"
   company = "Universidad de Panamá"
   company_url = "https://www.up.ac.pa/"
   location = "Ciudad de Panamá"
