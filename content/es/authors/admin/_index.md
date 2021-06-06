@@ -33,6 +33,12 @@ education:
   - course: Master en Análisis Avanzado de Datos Multivariantes
     institution: Universidad de Salamanca
     year: 2015
+  - course: Master en Ciencias con especialización en Estadística Matemática
+    institution: Universidad de Panamá
+    year: ''
+  - course: Postgrado en Docencia Superior
+    institution: Universidad de Panamá
+    year: ''
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -51,6 +57,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=es&user=_DYicgcAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-8708-0351
 - icon: github
   icon_pack: fab
   link: https://github.com/mitzicubillamontilla
@@ -70,6 +79,6 @@ user_groups:
 - Visitors
 ---
 
-Mitzi Cubilla is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Soy profesora de estadística en la Universidad de Panamá a nivel de pregrado, maestría y doctorado. Ademas soy miembro del Sistema Nacional de Investigación en calidad de investigadora de la Secretaría Nacional de Ciencia, Tecnología e Innovación (SENACYT).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mis investigaciones giran en torno a temas de análisis multivariante, desarrollo de software y Big Data. Estas investigaciones son llevadas a cabo con equipos interdisciplinarios. 
