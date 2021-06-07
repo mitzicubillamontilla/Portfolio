@@ -22,6 +22,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Statistics
+- Mathematics
 - Programming
 - Teaching
 
@@ -33,6 +34,12 @@ education:
   - course: MSc in Advanced Analysis of Multivariate Data
     institution: University of Salamanca
     year: 2015
+  - course: MSc in Sciences with major in Mathematical Statistics
+    institution: University of Panama
+    year: ''
+  - course: Postgraduate in Superior Teaching
+    institution: University of Panama
+    year: ''
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +52,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MitziCubilla
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/mitzi-cubilla/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=es&user=_DYicgcAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mitzicubillamontilla
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-8708-0351
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=es&user=_DYicgcAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mitzi-cubilla/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-Mitzi Cubilla is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a professor of statistics at the University of Panama, at the undergraduate, master and doctoral levels. I am also a member of the National Research System, as a researcher of the National Secretariat of Science, Technology and Innovation (SENACYT).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research turns around multivariate analysis, software development and Big Data. This research is carried out with multidisciplinary teams. 

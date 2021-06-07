@@ -18,10 +18,11 @@ organizations:
   url: "https://www.up.ac.pa/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mis intereses profesionales giran en torno a temas de análisis multivariante, desarrollo de software y Big Data.
 
 interests:
 - Estadística
+- Matemáticas
 - Programación
 - Docencia
 
@@ -51,18 +52,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MitziCubilla
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/mitzi-cubilla/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=es&user=_DYicgcAAAAJ
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-8708-0351
 - icon: github
   icon_pack: fab
   link: https://github.com/mitzicubillamontilla
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-8708-0351
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=es&user=_DYicgcAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mitzi-cubilla/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -79,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-Soy profesora de estadística en la Universidad de Panamá a nivel de pregrado, maestría y doctorado. Ademas soy miembro del Sistema Nacional de Investigación en calidad de investigadora de la Secretaría Nacional de Ciencia, Tecnología e Innovación (SENACYT).
+Soy profesora de estadística en la Universidad de Panamá, a nivel de pregrado, maestría y doctorado. Ademas soy miembro del Sistema Nacional de Investigación, en calidad de investigadora de la Secretaría Nacional de Ciencia, Tecnología e Innovación (SENACYT).
 
-Mis investigaciones giran en torno a temas de análisis multivariante, desarrollo de software y Big Data. Estas investigaciones son llevadas a cabo con equipos interdisciplinarios. 
+Mis investigaciones giran en torno a temas de análisis multivariante, desarrollo de software y Big Data. Estas investigaciones son llevadas a cabo con equipos multidisciplinarios. 
