@@ -23,10 +23,10 @@
     name = "Accomplishments"
     url = "#accomplishments"
     weight = 2
-  [[en.menu.main]]
-    name = "Posts"
-    url = "#posts"
-    weight = 3
+ # [[en.menu.main]]
+ #   name = "Posts"
+ #   url = "#posts"
+ #  weight = 3
   [[en.menu.main]]
     name = "Talks"
     url = "#talks"
