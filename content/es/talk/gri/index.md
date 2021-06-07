@@ -35,7 +35,7 @@ image:
 
 links:
 - icon: certificate
-  icon_pack: fab
+  icon_pack: fas
   name: Video
   url: https://drive.google.com/file/d/1VV8Zd-WI-p8Y926U35Z-31CyfS8i8ZDD/view?usp=sharing
 url_code: ""
