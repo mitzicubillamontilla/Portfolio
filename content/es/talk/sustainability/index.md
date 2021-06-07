@@ -3,7 +3,7 @@ title: Visión multivariante de la sostenibilidad ambiental, desde las universid
 event: Simposio Internacional de Investigación Multidisciplinaria (SIDIM) 2021
 event_url: https://ceincet.com/simposio-internacional-de-investigacion-multidisciplinaria-sidim-2021-en-vivo/
 
-location: SIDIM 2021
+location: Colombia
 address:
   street: ''
   city: ''
@@ -18,7 +18,7 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-05-27"
 date_end: "2021-05-28"
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: ""
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
@@ -41,35 +41,22 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "url: https://www.youtube.com/watch?v=euyiDxtIRHw"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+projects: []
 
 # Enable math on this page?
 math: true
 ---
-
-# {{% alert note %}}
-# Click on the **Slides** button above to view the built-in slides feature.
-# {{% /alert %}}
-# 
-# Slides can be added in a few ways:
-# 
-# - **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-# 
-# Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
