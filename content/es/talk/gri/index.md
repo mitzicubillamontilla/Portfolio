@@ -1,6 +1,6 @@
 ---
 title: Responsabilidad social ambiental según el Global Reporting Initiative (GRI): un análisis multivariante de las empresas más grandes a nivel mundial
-event: IV Jornadas de "Estadística Como Herramienta Científica"
+event: IV Jornadas de Estadística Como Herramienta Científica
 event_url: https://www.ujaen.es/estudios/oferta-academica/titulos-propios/actividades-formativas-especificas/foco-iv-jornadas-de-estadistica-como-herramienta
 
 location: Jaén
