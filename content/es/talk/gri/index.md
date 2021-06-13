@@ -1,9 +1,9 @@
 ---
-title: Visión multivariante de la sostenibilidad ambiental, desde las universidades
-event: Simposio Internacional de Investigación Multidisciplinaria (SIDIM) 2021
-event_url: https://ceincet.com/simposio-internacional-de-investigacion-multidisciplinaria-sidim-2021-en-vivo/
+title: Responsabilidad social ambiental según el Global Reporting Initiative (GRI): un análisis multivariante de las empresas más grandes a nivel mundial
+event: IV Jornadas de Estadística Como Herramienta Científica
+event_url: https://www.ujaen.es/estudios/oferta-academica/titulos-propios/actividades-formativas-especificas/foco-iv-jornadas-de-estadistica-como-herramienta
 
-location: Colombia
+location: Jaén
 address:
   street: ''
   city: ''

@@ -1,6 +1,6 @@
 ---
 title: Contribuciones al análisis biplot basadas en soluciones sparse
-event: Master Universitario en Análisis Avanzado de Datos Multivariantes y Big Data,
+event: Master Universitario en Análisis Avanzado de Datos Multivariantes y Big Data
 event_url: https://www.usal.es/master-analisis-avanzado-de-datos-multivariantes-y-big-data
 
 location: Salamanca
@@ -17,7 +17,7 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-02-15"
-date_end: "2021-02-15"
+date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT talk date).
