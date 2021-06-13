@@ -2,11 +2,11 @@
 title: "What environmental social responsibility practices do largecompanies manage for sustainable development?"
 authors:
 - admin
-date: "2020-09-14"
+date: "2020-09-07"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09-14"
+publishDate: "2020-09-07"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

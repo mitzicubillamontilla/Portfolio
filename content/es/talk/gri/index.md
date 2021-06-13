@@ -1,23 +1,23 @@
 ---
-title: Visión multivariante de la sostenibilidad ambiental, desde las universidades
-event: Simposio Internacional de Investigación Multidisciplinaria (SIDIM) 2021
-event_url: https://ceincet.com/simposio-internacional-de-investigacion-multidisciplinaria-sidim-2021-en-vivo/
+title: Responsabilidad social ambiental según el Global Reporting Initiative (GRI): un análisis multivariante de las empresas más grandes a nivel mundial
+event: IV Jornadas de "Estadística Como Herramienta Científica"
+event_url: https://www.ujaen.es/estudios/oferta-academica/titulos-propios/actividades-formativas-especificas/foco-iv-jornadas-de-estadistica-como-herramienta
 
-location: Colombia
+location: Jaén
 address:
   street: ''
   city: ''
   region: ''
   postcode: ''
-  country: Colombia
+  country: España
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-27"
-date_end: "2021-05-28"
+date: "2021-03-24"
+date_end: "2021-03-26"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -34,14 +34,10 @@ image:
   focal_point: Right
 
 links:
-- icon: youtube
-  icon_pack: fab
-  name: Video
-  url: https://www.youtube.com/watch?v=euyiDxtIRHw
 - icon: certificate
   icon_pack: fas
   name: Certificado
-  url: https://drive.google.com/file/d/1WeneTjSrHph9badyiwh3qumxhFCTZoKY/view?usp=sharing
+  url: https://drive.google.com/file/d/1VV8Zd-WI-p8Y926U35Z-31CyfS8i8ZDD/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
