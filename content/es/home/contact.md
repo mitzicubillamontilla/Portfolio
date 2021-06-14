@@ -17,5 +17,6 @@ autolink = true
 #   2: formspree.io
 email_form = 2
 action = "https://formspree.io/f/xbjqyyrd"
+method = "POST"
 +++
 
