@@ -8,6 +8,7 @@ address:
   street: ''
   city: 'David'
   region: 'Chiriquí'
+  postcode: ''
   country: 'Panamá'
 
 summary: An example talk using Academic's Markdown slides feature.

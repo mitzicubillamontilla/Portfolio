@@ -1,6 +1,6 @@
 ---
-title: Contribuciones al análisis biplot basadas en soluciones sparse
-event: Master Universitario en Análisis Avanzado de Datos Multivariantes y Big Data
+title: Contributions to biplot analysis based on sparse solutions
+event: Master's Degree in Advanced Multivariate and Big Data Analysis
 event_url: https://www.usal.es/master-analisis-avanzado-de-datos-multivariantes-y-big-data
 
 location: University of Salamanca

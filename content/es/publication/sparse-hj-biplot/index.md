@@ -31,15 +31,15 @@ links:
 - icon: pager
   icon_pack: fas
   name: Revista
-  url: https://www.mdpi.com/2227-7390/9/11/1298
+  url: https://www.mdpi.com/journal/mathematics
 - icon: file-pdf
   icon_pack: fas
   name: PDF
-  url: https://www.mdpi.com/2227-7390/9/11/1298
+  url: https://www.mdpi.com/2227-7390/9/11/1298/pdf
 - icon: doi
   icon_pack: ai
   name: DOI
-  link: https://doi.org/10.3390/math9111298
+  url: https://doi.org/10.3390/math9111298
 url_pdf: ''
 url_code: ''
 url_dataset: ''

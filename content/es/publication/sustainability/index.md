@@ -28,6 +28,10 @@ tags:
 featured: true
 
 links:
+- icon: pager
+  icon_pack: fas
+  name: Revista
+  url: https://onlinelibrary.wiley.com/journal/15353966
 - icon: file-pdf
   icon_pack: fas
   name: PDF
@@ -35,7 +39,7 @@ links:
 - icon: doi
   icon_pack: ai
   name: DOI
-  link: https://doi.org/10.1002/csr.2039
+  url: https://doi.org/10.1002/csr.2039
 url_pdf: ''
 url_code: ''
 url_dataset: ''
