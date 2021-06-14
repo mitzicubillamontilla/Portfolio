@@ -2,11 +2,11 @@
 title: "What companies do not disclose about their environmental policy and what institutional pressures may do to respect"
 authors:
 - admin
-date: "2019-10-01"
+date: "2020-06-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-10-01"
+publishDate: "2020-06-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "*Corporate Social Responsibility and Environmental Management*, 27(3)"
 publication_short: ""
 
-abstract: La información contenida en los informes de responsabilidad social de las empresas es un tema controvertido y ha generado un importante debate entre los académicos sobre las estrategias de divulgación de las empresas. Las cuestiones medioambientales son especialmente relevantes por su impacto en el desarrollo sostenible. 
+abstract: La información contenida en los informes de responsabilidad social de las empresas es un tema controvertido y ha generado un importante debate entre los académicos sobre las estrategias de divulgación de las empresas. Las cuestiones medioambientales son especialmente relevantes por su impacto en el desarrollo sostenible. El presente estudio tiene dos objetivos. El primero es determinar qué indicadores medioambientales de la Global Reporting Initiative se comunican con menor frecuencia. El segundo es predecir la evolución de estos indicadores a la luz de las presiones institucionales que las empresas tratan de resistir. En concreto, el estudio de la dimensión medioambiental de la GRI se centra en el análisis de los siguientes aspectos: materiales, energía, agua, biodiversidad, emisiones, efluentes y residuos, productos y servicios, cumplimiento, transporte, evaluación medioambiental y mecanismos de reclamación medioambiental. 
 
 # Summary. An optional shortened abstract.
 summary: Estudio de los indicadores medioambientales de la Global Reporting Initiative (GRI)
