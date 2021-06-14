@@ -12,7 +12,7 @@ address:
   country: 'Colombia'
 
 summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "El papel de las universidades no se limita solo a las actividades de docencia e investigación; también conlleva una enorme responsabilidad social en la gestión de actividades sostenibles con el medio ambiente y con los principios de sostenibilidad. Bajo este enfoque, el objetivo de esta ponencia consiste en mostrar la responsabilidad de las universidades colombianas con la sostenibilidad; y a la vez, clasificarlas según sus prácticas de cuidado del ambiente, mediante el análisis de clúster. Para lograr este objetivo, se utilizaron los datos reportados por 47 universidades de Colombia, a través del ranking de universidades: UI GreenMetric 2020, clasificación mundial creada por la Universidad de Indonesia. El ranking evalúa a las universidades en seis categorías: 1) entorno e infraestructura, 2) energía y cambio climático, 3) gestión de residuos, 4) preservación del agua, 5) transporte verde, y 6) temas relacionados con la educación y la investigación en sostenibilidad. El análisis estadístico de los datos se realizó con el método multivariante “HJ Biplot”, utilizando el software “MultBiplot”. Los resultados revelan que las categorías -energía y cambio climático- y -educación e investigación-, distinguen a las instituciones colombianas de más alto rango en su compromiso hacia la sostenibilidad. Se concluye que, para ser más sostenibles, algunas universidades promueven el ahorro del agua, otras llevan a cabo iniciativas como recolección de residuos, protección de la flora y fauna, siembra de árboles e iluminación con luces led. No existe diferencia significativa entre las universidades públicas y privadas, respecto a sus actividades y prácticas de sostenibilidad."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,7 @@ all_day: true
 publishDate: ""
 
 authors: []
-tags: []
+tags: [Sostenibilidad, Ranking UI Green Metric, Biplot, cluster]
 
 # Is this a featured talk? (true/false)
 featured: false
