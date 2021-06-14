@@ -3,12 +3,11 @@ title: Transformación digital, un reto para la productividad y competitividad e
 event: Congreso de Economía Sociedad e Innovación
 event_url: http://www.unachi.ac.pa/index.php/evento/672
 
-location: Universidad de Chiriquí
+location: Universidad Autónoma de Chiriquí
 address:
   street: ''
   city: 'David'
   region: 'Chiriquí'
-  postcode: ''
   country: 'Panamá'
 
 summary: An example talk using Academic's Markdown slides feature.
