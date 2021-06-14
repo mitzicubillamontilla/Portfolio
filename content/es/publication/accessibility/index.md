@@ -18,7 +18,8 @@ publication_types: ["2"]
 publication: "*Revista de Salud Pública*, 21(4)"
 publication_short: ""
 
-abstract: **Objetivo** Identificar la capacidad de brindar un buen acceso a instalaciones y equipos que propicien el consumo de agua dentro de la Universidad de Panamá, como parte de su compromiso de promover comportamientos que beneficien la salud en esta comunidad.
+abstract: El objetivo es identificar la capacidad de brindar un buen acceso a instalaciones y equipos que propicien el consumo de agua dentro de la Universidad de Panamá, como parte de su compromiso de promover comportamientos que beneficien la salud en esta comunidad. Se realizó un estudio estadístico descriptivo y análisis multivariado, utilizando la técnica de análisis de correspondencia entre las variables *Estamentos Universitarios* (estudiantes, docentes y administrativos) vs *Acceso a fuentes de agua* y el *Acceso a fuentes de agua* vs *Insumos para facilitar el consumo de agua*. Se concluyó que el 66,3 porciento de los encuestados reconocieron al agua como la bebida más accesible para consumo, proveniente principalmente de las fuentes de agua, seguido del agua embotellada.
+
 # Summary. An optional shortened abstract.
 summary: Análisis de la responsabilidad social empresarial mediante métodos biplots
 
