@@ -3,13 +3,13 @@ title: Impact of regulatory institutional structures on corporate transparency. 
 event: I International Forum of Multidisciplinary Talks on Data Analysis
 event_url: ""
 
-location: University of Colima
+location: Center for Research in Applied Multivariate Statistics (CIEMA)
 address:
   street: ''
   city: 'Colima'
   region: 'Colima'
   postcode: ''
-  country: México
+  country: 'México'
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

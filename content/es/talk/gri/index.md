@@ -3,13 +3,13 @@ title: Responsabilidad social ambiental según el Global Reporting Initiative (G
 event: IV Jornadas de Estadística Como Herramienta Científica
 event_url: https://www.ujaen.es/estudios/oferta-academica/titulos-propios/actividades-formativas-especificas/foco-iv-jornadas-de-estadistica-como-herramienta
 
-location: Jaén
+location: Universidad de Jaén
 address:
   street: ''
-  city: ''
-  region: ''
+  city: 'Jaén'
+  region: 'Andalucía'
   postcode: ''
-  country: España
+  country: 'España'
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

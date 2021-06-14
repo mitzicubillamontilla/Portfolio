@@ -3,13 +3,13 @@ title: Visión multivariante de la sostenibilidad ambiental, desde las universid
 event: Simposio Internacional de Investigación Multidisciplinaria (SIDIM) 2021
 event_url: https://ceincet.com/simposio-internacional-de-investigacion-multidisciplinaria-sidim-2021-en-vivo/
 
-location: Colombia
+location: Centro de Investigación Científica, Empresarial y Tecnológica de Colombia (CEINCET)
 address:
   street: ''
-  city: ''
-  region: ''
+  city: 'Bucaramanga'
+  region: 'Santander'
   postcode: ''
-  country: Colombia
+  country: 'Colombia'
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

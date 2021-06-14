@@ -3,13 +3,13 @@ title: Multivariate vision of environmental sustainability from universities.
 event: International Symposium on Multidisciplinary Research (SIDIM) 2021
 event_url: https://ceincet.com/simposio-internacional-de-investigacion-multidisciplinaria-sidim-2021-en-vivo/
 
-location: Center for Scientific, Enterprise and Technological Research of Colombia
+location: Center for Scientific, Enterprise and Technological Research of Colombia (CEINCET)
 address:
   street: ''
   city: 'Bucaramanga'
   region: 'Santander'
   postcode: ''
-  country: Colombia
+  country: 'Colombia'
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

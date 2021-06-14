@@ -3,13 +3,13 @@ title: Impacto de las estructuras institucionales normativas en la transparencia
 event: I Foro Internacional de Charlas Multidisciplinarias de Análisis de Datos
 event_url: ""
 
-location: Colima
+location: Centro de Investigación de Estadística Multivariante Aplicada (CIEMA)
 address:
   street: ''
-  city: ''
-  region: ''
+  city: 'Colima'
+  region: 'Colima'
   postcode: ''
-  country: México
+  country: 'México'
 
 summary: An example talk using Academic's Markdown slides feature.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
