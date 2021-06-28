@@ -1,5 +1,5 @@
 ---
-title: Digital transformation, a challenge for productivity and competitivity in educational and business environments in the face of the current crisis.
+title: Key factors of the global innovation system in Latin America and the world
 event: Economy, Society and Innovation Congress
 event_url: http://www.unachi.ac.pa/index.php/evento/672
 
@@ -34,6 +34,10 @@ image:
   focal_point: Right
 
 links:
+- icon: youtube
+  icon_pack: fab
+  name: Video
+  url: https://www.youtube.com/watch?v=vZCdft-_pxI&t=3111s
 - icon: certificate
   icon_pack: fas
   name: Certificate

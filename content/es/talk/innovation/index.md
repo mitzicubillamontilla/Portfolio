@@ -1,5 +1,5 @@
 ---
-title: Transformación digital, un reto para la productividad y competitividad en entornos educativos y empresariales ante la crisis actual
+title: Factores claves del sistema de innovación global en América Latina y el mundo
 event: Congreso de Economía Sociedad e Innovación
 event_url: http://www.unachi.ac.pa/index.php/evento/672
 
@@ -34,6 +34,10 @@ image:
   focal_point: Right
 
 links:
+- icon: youtube
+  icon_pack: fab
+  name: Video
+  url: https://www.youtube.com/watch?v=vZCdft-_pxI&t=3111s
 - icon: certificate
   icon_pack: fas
   name: Certificado
