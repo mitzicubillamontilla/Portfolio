@@ -30,7 +30,7 @@ featured: true
 links:
 - icon: pager
   icon_pack: fas
-  name: Revista
+  name: Journal
   url: https://www.mdpi.com/journal/mathematics
 - icon: file-pdf
   icon_pack: fas
